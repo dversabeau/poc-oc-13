@@ -1,4 +1,4 @@
-# Chat Application
+# POC Chat Your Car Your Way
 
 Une application de chat simple utilisant Angular pour le front-end, Spring Boot pour le back-end, et WebSocket pour la communication en temps réel.
 
